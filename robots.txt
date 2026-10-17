@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boktoday.github.io/iep-ally-website/sitemap.xml
