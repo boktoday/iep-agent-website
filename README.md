@@ -1,9 +1,9 @@
-# IEP Ally website
+# IEP Agent website
 
-The promotional site for **IEP Ally**, a free, local-first IEP planning agent for parents.
+The promotional site for **IEP Agent**, a free, local-first IEP planning agent for parents.
 
-- Live: https://boktoday.github.io/iep-ally-website/
-- The agent: https://github.com/boktoday/iep-ally-hermes-agent
+- Live: https://iepagent.com/
+- The agent: https://github.com/boktoday/iep-agent-hermes-agent
 
 ## Pages
 
