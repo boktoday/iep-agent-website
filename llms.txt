@@ -1,0 +1,32 @@
+# IEP Ally
+
+> IEP Ally is a free, local-first AI agent for parents and guardians navigating an IEP (Individual Education Plan) for a child with additional needs. It runs on the family's own computer via Hermes Agent, keeps everything in a local folder, and turns a guided intake into a printable plan page and a one-page meeting brief.
+
+## What it does
+
+- Guided onboarding intake: child's first name, year level, existing IEP text, Functional Capacity Assessment text, other context, term dates, country
+- About Me: strengths, challenges, what helps learning, how the child communicates best
+- Goals: one long-term goal tied to the school's curriculum, plus short-term goals with concrete strategies
+- Support team: names, roles and contact details
+- My Notes and Teacher Notes: dated running records
+- Meeting Prep: a one-page brief before any planning meeting, plus advocacy letter drafting
+- Hard Moments: crisis rails and verified helplines
+- Export: printable plan page and an app-compatible JSON export
+
+## Key facts
+
+- Free software (PolyForm Noncommercial 1.0.0), built on Hermes Agent
+- No accounts, no login, no payments, no telemetry
+- Data lives in a local folder the family owns: shared/profile.json plus Markdown notes
+- Works with any Hermes-supported model provider, including fully local models (Ollama, LM Studio)
+- Optional Telegram connection for quick note capture
+
+## Links
+
+- Source and download: https://github.com/boktoday/iep-ally-hermes-agent
+- Project home: https://boktoday.github.io/iep-ally-website/
+- Setup help: https://boktoday.github.io/iep-ally-website/hire.html
+
+## Who it is for
+
+Parents and guardians, in any country (Australia-focused examples), who want their child's plan organised and their meetings prepared without handing their child's data to a platform.
