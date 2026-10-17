@@ -1,6 +1,6 @@
-# IEP Ally
+# IEP Agent
 
-> IEP Ally is a free, local-first AI agent for parents and guardians navigating an IEP (Individual Education Plan) for a child with additional needs. It runs on the family's own computer via Hermes Agent, keeps everything in a local folder, and turns a guided intake into a printable plan page and a one-page meeting brief.
+> IEP Agent is a free, local-first AI agent for parents and guardians navigating an IEP (Individual Education Plan) for a child with additional needs. It runs on the family's own computer via Hermes Agent, keeps everything in a local folder, and turns a guided intake into a printable plan page and a one-page meeting brief.
 
 ## What it does
 
@@ -23,9 +23,9 @@
 
 ## Links
 
-- Source and download: https://github.com/boktoday/iep-ally-hermes-agent
-- Project home: https://boktoday.github.io/iep-ally-website/
-- Setup help: https://boktoday.github.io/iep-ally-website/hire.html
+- Source and download: https://github.com/boktoday/iep-agent-hermes-agent
+- Project home: https://iepagent.com/
+- Setup help: https://iepagent.com/hire.html
 
 ## Who it is for
 
