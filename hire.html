@@ -24,7 +24,7 @@
   .btn.ghost{background:transparent; color:var(--purple-deep); border:2px solid var(--purple-deep); margin-left:10px;}
   .btn.ghost:hover{background:var(--purple-deep); color:#fff;}
   header.site{border-bottom:1px solid var(--line); background:var(--paper);}
-  .navbar{display:flex; align-items:center; justify-content:space-between; padding:14px 0;}
+  .navbar{display:flex; align-items:center; justify-content:space-between; padding-top:14px; padding-bottom:14px;}
   .brand{display:flex; align-items:center; gap:10px; font-family:'Newsreader',serif; font-size:24px; font-weight:600; color:var(--purple-deep);}
   .brand svg{width:30px; height:30px;}
   nav.main{display:flex; gap:24px; font-size:15px; font-weight:500;}
@@ -51,6 +51,7 @@
   @media (max-width:880px){
     nav.main{display:none;}
     .burger{display:block;}
+    .navbar{padding-top:16px; padding-bottom:16px;}
     .menu{display:none; border-top:1px solid var(--line); padding:10px 0 18px;}
     .menu a{display:block; padding:12px 4px; font-size:17px; color:var(--ink); border-bottom:1px solid var(--line);}
     body.menu-open .menu{display:block;}
